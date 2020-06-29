@@ -12,11 +12,12 @@
 
 - [Download through Github Releases](https://github.com/pipetcpt/dallphin/releases)
 
-## Functions <img src='assets/various-dosing.png' align="right" width="300" />
+## Functions <img src='assets/intro-2.jpg' align="right" width="300" />
 
 - *In vitro* data to human PK prediction
 - Animal PK to human PK prediction
 - Population PK simulation
+- Full PBPK simulation (perfusion rate-limited kinetics using Kp)
 
 ## Workshops
 
@@ -24,8 +25,15 @@
 
 **Theories and Practices for Human Pharmacokinetics Prediction Using Non-clinical Information**
 
-- Date : 2019-04-25 (Thursday)
-- Venue : Healthcare Innovation Park, Seoul National University, Bundang Hospital
+- Date: 2019-04-25 (Thursday)
+- Venue: Healthcare Innovation Park, Seoul National University, Bundang Hospital
+
+### PAGK 2019 - Workshop
+
+**비임상 정보를 이용한 인간 약동학 예측의 이론과 실제: PBPK software, Dallphin**
+
+- Date: 2019-11-29 (Friday)
+- Venue: 해운대백병원 5층 세미나실 A
 
 ## If Dallphin looks ugly or strange,
 
@@ -47,7 +55,6 @@ You can solve these problems by applying one of the following solutions.
 - [Brief Guidance](brief-guidance.pdf)
 - [Presentation: in vitro](presentations/in-vitro.pdf)
 - [Presentation: in vivo](presentations/in-vivo.pdf)
-
 
 ## Acknowledgement
 
