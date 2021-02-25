@@ -1,4 +1,4 @@
-# Dallphin <a href='https:/github.com/pipetcpt/dallphin'><img src='assets/new-logo.png' align="right" height="100" /></a>
+# Dallphin <a href='https:/github.com/pipetcpt/dallphin'><img src='assets/logo.png' align="right" height="100" /></a>
 
 **Drugs with Allometry and Physiology Inside**
 
