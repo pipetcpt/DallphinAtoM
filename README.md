@@ -1,6 +1,6 @@
-# Dallphin <a href='https:/github.com/pipetcpt/dallphin'><img src='assets/logo.png' align="right" height="100" /></a>
+# DallphinAtoM <a href='https:/github.com/pipetcpt/dallphin'><img src='assets/logo.png' align="right" height="100" /></a>
 
-**Drugs with Allometry and Physiology Inside**
+**Drugs with Allometry and Physiology Inside** Animal to huMan
 
 <!-- badges: start -->
 [![GitHub release](https://img.shields.io/github/release-pre/pipetcpt/dallphin.svg)](https://github.com/pipetcpt/dallphin/releases)
