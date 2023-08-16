@@ -35,6 +35,11 @@
 - Date: 2019-11-29 (Friday)
 - Venue: 해운대백병원 5층 세미나실 A
 
+### 2023 청람바이오아카데미 워크샵
+
+- TBD
+
+
 ## If Dallphin looks ugly or strange,
 
 If you are using a laptop or an internal or external monitor with Ultra High Definition (4k UHD) using a higher resolution, you might experience the following problems in Dall-Phin.
